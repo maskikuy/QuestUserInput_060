@@ -1,6 +1,6 @@
 package com.example.praktikum4
 
-import android.R
+
 import android.renderscript.Sampler
 import androidx.compose.animation.core.withInfiniteAnimationFrameMillis
 import androidx.compose.foundation.layout.Arrangement
